@@ -1,7 +1,7 @@
-# SciTec Jr´s Computing Sector 👋:computer:
+## Presenting SciTec Jr´s Computing Sector 👋:computer:
 
-We are a company made up of students from ICT UNIFESP in São José dos Campos. 
-We use our knowledge in the areas of science and technology to develop projects that boost your business!
+We are SciTec Jr, a company made up of students from ICT UNIFESP in São José dos Campos, Brazil.
+Our knowledge in science and technology is used to develop projects that boost your business!
 
 Through the company computing sector, the SciTec Jr offers innovative digital products and solutions in:
 
